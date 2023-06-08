@@ -25,3 +25,13 @@ Ingieneria en Ssitemas
 
 ## Estudios Universitarios
 Universidad Politecnica Salesiana
+
+## Habilidades
+- Programar en python
+- Programar en MATLAB
+- Programar en Java
+- Codificar conceptos de redes en cisco
+
+## Aspiraciones de trabajo
+- Jefe de area
+- Gerente de sistemas de seguridad
