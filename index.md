@@ -16,7 +16,7 @@ Ecuatoriana
 0995750360
 
 ## Titulos
-Ingieneria en Ssitemas
+Ingieneria en Ciencias de la Computacion
 
 ## Estudios de Educacion Basica
 - Centro Educativo Procesos
