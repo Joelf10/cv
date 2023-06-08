@@ -12,9 +12,6 @@ joelcontreras1010@hotmail.com
 ### Nacionalidad
 Ecuatoriana
 
-### Numero Personal
-0995750360
-
 ## Titulos
 Ingieneria en Ciencias de la Computacion
 
